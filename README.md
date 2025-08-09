@@ -14,7 +14,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=JosiahKiganjo&show_icons=true&theme=tokyonight)
+![Josiah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josiah-njoroge&show_icons=true&theme=tokyonight)
 
 ---
 
