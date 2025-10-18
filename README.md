@@ -83,7 +83,7 @@
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/josiah-kiganjo)  
-📧 **Email:** josiahkiganjo@example.com *(replace with your real one)*  
+📧 **Email:** josiahkiganjo@gmail.com 
 
 ---
 
